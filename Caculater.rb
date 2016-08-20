@@ -1,5 +1,4 @@
 begin
-	operator = 0
 	begin
 		puts "歡迎使用Ruby計算機"
 		puts "請選擇運算子"
